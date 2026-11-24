@@ -1,0 +1,4 @@
+__pycache__
+.nicegui
+gui/__pycache__
+theme/__pycache__
